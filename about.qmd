@@ -1,0 +1,6 @@
+---
+title: "Projects"
+---
+## Predicting Hotel Room Reservation Cancellations
+
+This [project](https://github.com/maryamakbar25/hotel-reservations/tree/main) uses three techniques: logistic regression, decision tree, and random forest to predict whether a hotel reservation would be cancelled or not. The features in the dataset range from the number of adults and children per reservation to if the price of the reservation.

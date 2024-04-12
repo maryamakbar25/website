@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: Home
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Projects
+      - href: thesis.qmd
+        text: Thesis
+      - href: courses.qmd
+        text: Coursework
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

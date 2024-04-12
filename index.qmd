@@ -1,0 +1,35 @@
+---
+title: "Maryam Akbar"
+about:
+    template: trestles
+    image: /images/profile_picture.jpg
+    links: 
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/maryam-akbar-92a67399/
+      - icon: github
+        text: Github
+        href: https://github.com/maryamakbar25
+      - icon: mailbox
+        text: Email
+        href: mailto:maryamakbar@g.ucla.edu
+---
+
+## Education
+
+#### University of California Los Angeles
+Master of Applied Statistics & Data Science, expected June 2024
+
+#### Mount Holyoke College
+Bachelor of Arts, Mathematics & Economics, May 2017
+
+## Recent Work Experience
+
+Strategy Analyst, Engro Corporation, 2020-2022
+
+Associate Financial Analyst, IMM - Jang Media Group, 2019-2020
+
+
+
+
+

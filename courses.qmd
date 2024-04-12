@@ -1,0 +1,17 @@
+---
+title: "Coursework"
+---
+
+#### Multivariate Statistical Analysis \| Winter 2024
+
+#### Applied Geostatistics \| Winter 2024
+
+#### Machine Learning \| Fall 2023
+
+#### Data Management \| Spring 2023
+
+#### Mathematical Statistics \| Winter 2023
+
+#### Statistical Computing & Programming \| Winter 2023
+
+#### Applied Regression \| Fall 2022

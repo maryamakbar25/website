@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project uses three techniques: logistic regression, decision tree, and random forest to predict whether a hotel reservation would be cancelled or not. The features in the dataset range from the number of adults and children per reservation to if the price of the reservation."
+  },
+  {
+    "objectID": "about.html#predicting-hotel-room-reservation-cancellations",
+    "href": "about.html#predicting-hotel-room-reservation-cancellations",
+    "title": "Projects",
+    "section": "",
+    "text": "This project uses three techniques: logistic regression, decision tree, and random forest to predict whether a hotel reservation would be cancelled or not. The features in the dataset range from the number of adults and children per reservation to if the price of the reservation."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Multivariate Statistical Analysis | Winter 2024\n\n\nApplied Geostatistics | Winter 2024\n\n\nMachine Learning | Fall 2023\n\n\nData Management | Spring 2023\n\n\nMathematical Statistics | Winter 2023\n\n\nStatistical Computing & Programming | Winter 2023\n\n\nApplied Regression | Fall 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maryam Akbar",
+    "section": "",
+    "text": "Master of Applied Statistics & Data Science, expected June 2024\n\n\n\nBachelor of Arts, Mathematics & Economics, May 2017"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Maryam Akbar",
+    "section": "",
+    "text": "Master of Applied Statistics & Data Science, expected June 2024\n\n\n\nBachelor of Arts, Mathematics & Economics, May 2017"
+  },
+  {
+    "objectID": "index.html#recent-work-experience",
+    "href": "index.html#recent-work-experience",
+    "title": "Maryam Akbar",
+    "section": "Recent Work Experience",
+    "text": "Recent Work Experience\nStrategy Analyst, Engro Corporation, 2020-2022\nAssociate Financial Analyst, IMM - Jang Media Group, 2019-2020"
+  }
+]
